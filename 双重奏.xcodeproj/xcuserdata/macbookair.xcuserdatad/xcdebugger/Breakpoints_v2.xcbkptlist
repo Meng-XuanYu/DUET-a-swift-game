@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8A4B379-0618-4E33-8A1E-BDD702C1D298"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x53cc;&#x91cd;&#x594f;/GameScenes/GameScene3_3.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "GameScene3_3"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - d9274c1a479994d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.panGestureRecognizer.getter : Swift.Optional&lt;__C.UIPanGestureRecognizer&gt;"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - 314f38e136e87a50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.panGestureRecognizer.setter : Swift.Optional&lt;__C.UIPanGestureRecognizer&gt;"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - 1a9d3547b7491c43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.panGestureRecognizer.modify : Swift.Optional&lt;__C.UIPanGestureRecognizer&gt;"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - 6d1fa4ef703cdb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.panGestureRecognizer.modify : Swift.Optional&lt;__C.UIPanGestureRecognizer&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - 40ab41d1e4681f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.init(size: __C.CGSize) -&gt; &#x53cc;&#x91cd;&#x594f;.GameScene3_3"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - 5f4b5a03821c85c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.init() -&gt; &#x53cc;&#x91cd;&#x594f;.GameScene3_3"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "F4574396-CC9B-47CD-86E5-EA7C8FB7BEFF - c31172f92ebdc89d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "&#x53cc;&#x91cd;&#x594f;.GameScene3_3.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;&#x53cc;&#x91cd;&#x594f;.GameScene3_3&gt;"
+                  moduleName = "&#x53cc;&#x91cd;&#x594f;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookair/Documents/swift/%E5%8F%8C%E9%87%8D%E5%A5%8F/%E5%8F%8C%E9%87%8D%E5%A5%8F/GameScenes/GameScene3_3.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
